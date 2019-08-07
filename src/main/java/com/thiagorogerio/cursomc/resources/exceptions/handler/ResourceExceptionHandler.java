@@ -7,7 +7,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 
-import com.thiagorogerio.cursomc.services.exceptions.ObjectNotFoundException;
+import com.thiagorogerio.cursomc.exceptions.ObjectNotFoundException;
 
 /**
  * @author trcustodio

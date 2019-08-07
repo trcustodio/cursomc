@@ -1,4 +1,4 @@
-package com.thiagorogerio.cursomc.services.exceptions;
+package com.thiagorogerio.cursomc.exceptions;
 
 /**
  * @author trcustodio
